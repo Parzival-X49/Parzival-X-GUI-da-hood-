@@ -777,8 +777,8 @@ local SecondButton = AimlockPage.AddButton("Parzival Aimlock (Q)", function(bool
 	end
         )
 end)
-local SecondButton = AimlockPage.AddButton("Aimlock Keybind","Q",function(bool)
-    getgenv().AimlockKey = bool
+
+
 
 local fucknigger = FunstuffPage.AddButton("FOV [PRO]", function()
     workspace.CurrentCamera.FieldOfView = 120
